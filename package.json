@@ -1,0 +1,16 @@
+{
+  "name": "ttsapp",
+  "version": "1.0.0",
+  "description": "An App to connect to twitch and read messages through a selected output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaratuir",
+  "license": "ISC",
+  "dependencies": {
+    "audify": "^1.5.2",
+    "cmake-js": "^6.1.0",
+    "windows-tts": "^1.0.3"
+  }
+}

@@ -1,0 +1,6 @@
+//Rename this file to config.json and set up your configuration for quick loading the app.
+{
+	"botNameame":"",
+	"twitchOauthKey":"",
+	"defaultAudioDevice":-1
+}
