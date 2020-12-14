@@ -1,0 +1,240 @@
+PID 2224 received SIGSEGV for address: 0x6082e441
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+C:\Users\timot\TTSApp\node_modules\segfault-handler\src\StackWalker.cpp (923): StackWalker::ShowCallstack
+C:\Users\timot\TTSApp\node_modules\segfault-handler\src\segfault-handler.cpp (242): segfault_handler
+00007FF96F8083DC (ntdll): (filename not available): RtlDeleteAce
+00007FF96F7DB406 (ntdll): (filename not available): RtlRaiseException
+00007FF96F82FE3E (ntdll): (filename not available): KiUserExceptionDispatcher
+00007FF96082E441 (portaudio_x64): (filename not available): PaWasapi_ThreadPriorityRevert
+00007FF96082DBDD (portaudio_x64): (filename not available): PaWasapi_ThreadPriorityRevert
+00007FF96D6614C2 (ucrtbase): (filename not available): configthreadlocale
+00007FF96F467034 (KERNEL32): (filename not available): BaseThreadInitThunk
+00007FF96F7DD0D1 (ntdll): (filename not available): RtlUserThreadStart
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7aa904
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7a9e80
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+PID 16104 received SIGSEGV for address: 0x6f7aa904
+PID 16104 received SIGSEGV for address: 0x6aed20a8
+PID 12368 received SIGSEGV for address: 0x6f88f0f9
+SymInit: Symbol-SearchPath: '.;C:\Users\timot\TTSApp;C:\Program Files\nodejs;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Zaratuir'
+OS-Version: 10.0.19042 () 0x300-0x1
+C:\Users\timot\TTSApp\node_modules\segfault-handler\src\StackWalker.cpp (923): StackWalker::ShowCallstack
+C:\Users\timot\TTSApp\node_modules\segfault-handler\src\segfault-handler.cpp (242): segfault_handler
+00007FF96F8083DC (ntdll): (filename not available): RtlDeleteAce
+00007FF96F7DB406 (ntdll): (filename not available): RtlRaiseException
+00007FF96F7DB335 (ntdll): (filename not available): RtlRaiseException
+00007FF96F88F0F9 (ntdll): (filename not available): RtlIsZeroMemory
+00007FF96F88F0C3 (ntdll): (filename not available): RtlIsZeroMemory
+00007FF96F897E42 (ntdll): (filename not available): RtlpNtSetValueKey
+00007FF96F89812A (ntdll): (filename not available): RtlpNtSetValueKey
+00007FF96F89DD61 (ntdll): (filename not available): RtlpNtSetValueKey
+00007FF96F7A9640 (ntdll): (filename not available): RtlAllocateHeap
+00007FF96F7A5D21 (ntdll): (filename not available): RtlFreeHeap
+00007FF96D08ED1F (KERNELBASE): (filename not available): GlobalFree
+00007FF96F465B73 (KERNEL32): (filename not available): GlobalFree
+00007FF95EE26237 (portaudio_x64): (filename not available): Pa_WriteStream
+00007FF95EE308E5 (portaudio_x64): (filename not available): PaWasapi_ThreadPriorityRevert
+00007FF95EE23535 (portaudio_x64): (filename not available): Pa_CloseStream
+C:\Users\timot\TTSApp\node_modules\naudiodon\src\PaContext.cc (133): streampunk::PaContext::stop
+C:\Users\timot\TTSApp\node_modules\naudiodon\src\AudioIO.cc (307): streampunk::quitExecute
+00007FF6B7EF81BE (node): (filename not available): uv_queue_work
+00007FF6B7EE47ED (node): (filename not available): uv_poll_stop
+00007FF6B8CB0D70 (node): (filename not available): v8::internal::compiler::RepresentationChanger::Uint32OverflowOperatorFor
+00007FF96F467034 (KERNEL32): (filename not available): BaseThreadInitThunk
+00007FF96F7DD0D1 (ntdll): (filename not available): RtlUserThreadStart

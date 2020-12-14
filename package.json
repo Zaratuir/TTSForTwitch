@@ -11,6 +11,8 @@
   "dependencies": {
     "audify": "^1.5.2",
     "cmake-js": "^6.1.0",
+    "naudiodon": "^2.3.0",
+    "tmi.js": "^1.5.0",
     "windows-tts": "^1.0.3"
   }
 }
